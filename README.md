@@ -1,3 +1,2 @@
-This is my read me file of local 
-<br>
-Author = Deepak Kumar
+# local_reposdemo
+This is my read me file of local repo
